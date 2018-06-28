@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "799503884013",
+    "firebase_url": "https://jornal-app1.firebaseio.com",
+    "project_id": "jornal-app1",
+    "storage_bucket": "jornal-app1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799503884013:android:0a427e1f281443ac",
+        "android_client_info": {
+          "package_name": "com.example.android.jornalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799503884013-t1h45h4hl6hj0cgs0h587964a00v6gsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl7NU_WEu-8HvXkUqiVfApwZKtofW9knc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
