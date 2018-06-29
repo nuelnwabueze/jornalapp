@@ -28,4 +28,9 @@
     <string name="btn_sign_out">Sign Out</string>
     <string name="lbl_forgot_password">Forgot password?</string>
     <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="save">Save</string>
+    <string name="note_instructions">Enter Your Note</string>
+    <string name="title">Title</string>
+    <string name="invalid_title">Enter a Title</string>
+    <string name="invalid_content">Type in a Note</string>
 </resources>
